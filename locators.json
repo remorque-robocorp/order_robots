@@ -1,0 +1,51 @@
+{
+    "RobotSpareBinIndustries.Form.Button.Order": {
+        "screenshot": ".images\\robotsparebinindustries-form-button-order-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    },
+    "RobotSpareBinIndustries.Form.Button.Preview": {
+        "screenshot": ".images\\robotsparebinindustries-form-button-preview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "preview"
+    },
+    "RobotSpareBinIndustries.Form.Input.Legs": {
+        "screenshot": ".images\\robotsparebinindustries-form-input-legs-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//input[@type=\"number\"]"
+    },
+    "RobotSpareBinIndustries.Form.Radio.Body": {
+        "screenshot": ".images\\robotsparebinindustries-form-radio-body-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "class",
+        "type": "browser",
+        "value": "stacked"
+    },
+    "RobotSpareBinIndustries.Form.Select.Head": {
+        "screenshot": ".images\\robotsparebinindustries-form-select-head-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "head"
+    },
+    "RobotSpareBinIndustries.Form.ShippingAddress": {
+        "screenshot": ".images\\robotsparebinindustries-form-shippingaddress-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "address"
+    },
+    "RobotSpareBinIndustries.Modal.OK": {
+        "screenshot": ".images\\robotsparebinindustries-modal-ok-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": "BUTTON.btn.btn-dark"
+    }
+}
